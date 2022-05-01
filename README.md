@@ -1,0 +1,2 @@
+# bruderstein
+Notepad++ Plugin Manager
